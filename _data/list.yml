@@ -1,0 +1,745 @@
+#PAGES
+pages:
+- {name: 1}
+- {name: 2}
+- {name: 3}
+- {name: 4}
+- {name: 5}
+- {name: 6}
+- {name: 7}
+- {name: 8}
+- {name: 9}
+- {name: 10}
+- {name: 11}
+- {name: 12}
+- {name: 13}
+- {name: 14}
+- {name: 15}
+- {name: 16}
+- {name: 17}
+- {name: 18}
+- {name: 19}
+- {name: 20}
+- {name: 21}
+
+#LIST NAME
+animes:
+
+  # PAGE 1 # PAGE 1 # PAGE 1 # PAGE 1 # PAGE 1
+  # PAGE 1 # PAGE 1 # PAGE 1 # PAGE 1 # PAGE 1
+
+- {name: ".hack//G.U. Returner" , val: "drop"}
+- {name: ".hack//G.U. Trilogy" , val: "drop"}
+- {name: ".hack//G.U. Trilogy: Parody Mode" , val: "drop"}
+- {name: ".hack//Gift" , val: "drop"}
+- {name: ".hack//Legend Of The Twilight (Dub)" , val: "drop"}
+- {name: ".hack//Legend Of The Twilight (Sub)" , val: "drop"}
+- {name: ".hack//Liminality" , val: "drop"}
+- {name: ".hack//Quantum" , val: "drop"}
+- {name: ".hack//Roots (Dub)" , val: "drop"}
+- {name: ".hack//Roots (Sub)" , val: "drop"}
+- {name: ".hack//Sign (Dub)" , val: "drop"}
+- {name: ".hack//Sign (Sub)" , val: "drop"}
+- {name: ".hack//The Movie: Sekai no Mukou ni" , val: "drop"}
+- {name: ".hack//Versus: The Thanatos Report" , val: "drop"}
+- {name: "_Summer" , val: "drop"}
+- {name: "00:08" , val: "drop"}
+- {name: "001" , val: "drop"}
+- {name: "009 Re:Cyborg (Dub)" , val: "drop"}
+- {name: "009 Re:Cyborg (Sub)" , val: "drop"}
+- {name: "009-1 (Dub)" , val: "drop"}
+- {name: "009-1 (Sub)" , val: "drop"}
+- {name: "07-Ghost" , val: "drop"}
+- {name: "100% Pascal-sensei" , val: "drop"}
+- {name: "10000 Years Later" , val: "drop"}
+- {name: "1001 Nights" , val: "drop"}
+- {name: "11eyes" , val: "drop"}
+- {name: "12-sai.: Chicchana Mune no Tokimeki" , val: "drop"}
+- {name: "12-sai.: Chicchana Mune no Tokimeki 2nd Season" , val: "drop"}
+- {name: "12-sai.: Kiss, Kirai, Suki" , val: "drop"}
+- {name: "18if (Dub)" , val: "drop"}
+- {name: "18if (Sub)" , val: "drop"}
+- {name: "2005 Space Odyssey" , val: "drop"}
+- {name: "2010" , val: "drop"}
+- {name: "30-sai no Hoken Taiiku" , val: "drop"}
+- {name: "3D Kanojo: Real Girl" , val: "drop"}
+- {name: "3-gatsu no lion (Dub)" , val: "drop"}
+- {name: "3-gatsu no lion (Sub)" , val: "drop"}
+- {name: "3-gatsu no lion 2nd Season" , val: "drop"}
+- {name: "3-gatsu no lion Recap (Dub)" , val: "drop"}
+- {name: "3-gatsu no lion Recap (Sub)" , val: "drop"}
+- {name: "3-Nen D-Gumi Glass no Kamen" , val: "drop"}
+- {name: "3x3 Eyes" , val: "comp"}
+- {name: "3x3 Eyes Seima Densetsu" , val: "drop"}
+- {name: "5 Centimeters per Second (Dub)" , val: "comp"}
+- {name: "5 Centimeters per Second (Sub)" , val: "drop"}
+- {name: "663114" , val: "drop"}
+- {name: "6HP" , val: "comp"}
+- {name: "8 Man After" , val: "drop"}
+- {name: "91 Days (Dub)" , val: "drop"}
+- {name: "91 Days (Sub)" , val: "drop"}
+
+  # PAGE 2 # PAGE 2 # PAGE 2 # PAGE 2 # PAGE 2
+  # PAGE 2 # PAGE 2 # PAGE 2 # PAGE 2 # PAGE 2
+
+- {name: "91 Days Special" , val: "drop"}
+- {name: "A Channel" , val: "drop"}
+- {name: "A Channel OVA" , val: "drop"}
+- {name: "A Channel: Nabe wo Tabeyou" , val: "drop"}
+- {name: "A Chinese Ghost Story" , val: "comp"}
+- {name: "A Journey to Hiroshima (Dub)" , val: "comp"}
+- {name: "A Letter to Momo (Dub)" , val: "drop"}
+- {name: "A Letter to Momo (Sub)" , val: "drop"}
+- {name: "A little Snow Fairy Sugar (Dub)" , val: "drop"}
+- {name: "A little Snow Fairy Sugar (Sub)" , val: "drop"}
+- {name: "A Piece of Phantasmagoria" , val: "drop"}
+- {name: "A Sister's All You Need (Dub)" , val: "drop"}
+- {name: "A Sister's All You Need (ONA)" , val: "drop"}
+- {name: "A Sister's All You Need (Sub)" , val: "drop"}
+- {name: "A Starry Tale (Dub)" , val: "drop"}
+- {name: "A Tree of Palme (Dub)" , val: "comp"}
+- {name: "A Tree of Palme (Sub)" , val: "drop"}
+- {name: "A Wind Named Amnesia (Dub)" , val: "comp"}
+- {name: "A Wind Named Amnesia (Sub)" , val: "drop"}
+- {name: "A.D. Police (Dub)" , val: "drop"}
+- {name: "A.D. Police (Sub)" , val: "drop"}
+- {name: "A.I.C.O.: Incarnation (Dub)" , val: "drop"}
+- {name: "A.I.C.O.: Incarnation (Sub)" , val: "drop"}
+- {name: "Aa Harimanada" , val: "drop"}
+- {name: "Aachi wa Ssipak (Dub)" , val: "drop"}
+- {name: "Aachi wa Ssipak (Sub)" , val: "drop"}
+- {name: "Abarenbou Kishi!! Matsutarou" , val: "drop"}
+- {name: "Abashiri Ikka" , val: "drop"}
+- {name: "Abenobashi Mahou Shoutengai (Dub)" , val: "comp"}
+- {name: "Abenobashi Mahou Shoutengai (Sub)" , val: "drop"}
+- {name: "Absolute Duo (Dub)" , val: "drop"}
+- {name: "Absolute Duo (Sub)" , val: "drop"}
+- {name: "Abunai Sisters: Koko & Mika (Dub)" , val: "drop"}
+- {name: "ACCA: 13-ku Kansatsu-ka (Dub)" , val: "drop"}
+- {name: "ACCA: 13-ku Kansatsu-ka (Sub)" , val: "drop"}
+- {name: "Accel World (Dub)" , val: "drop"}
+- {name: "Accel World (Sub)" , val: "drop"}
+- {name: "Accel World OVA" , val: "drop"}
+- {name: "Accel World Specials" , val: "drop"}
+- {name: "Accel World: Infinite Burst" , val: "drop"}
+- {name: "Acchi Kocchi" , val: "drop"}
+- {name: "Ace Attorney (Dub)" , val: "drop"}
+- {name: "Ace Attorney (Sub)" , val: "drop"}
+- {name: "Ace wo Nerae!" , val: "drop"}
+- {name: "Ace wo Nerae! (1979)" , val: "drop"}
+- {name: "Ace wo Nerae! 2" , val: "drop"}
+- {name: "Action Heroine Cheer Fruits" , val: "drop"}
+- {name: "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari" , val: "drop"}
+- {name: "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd Season" , val: "drop"}
+- {name: "Adieu Galaxy Express 999 (Dub)" , val: "drop"}
+
+  # PAGE 3 # PAGE 3 # PAGE 3 # PAGE 3 # PAGE 3
+  # PAGE 3 # PAGE 3 # PAGE 3 # PAGE 3 # PAGE 3
+
+- {name: "Adieu Galaxy Express 999 (Sub)" , val: "drop"}
+- {name: "Adventure of Gamba" , val: "drop"}
+- {name: "Adventures in Beauty Wonderland" , val: "drop"}
+- {name: "Afro Samurai (Dub)" , val: "drop"}
+- {name: "Afro Samurai Pilot" , val: "drop"}
+- {name: "Afro Samurai: Resurrection (Dub)" , val: "drop"}
+- {name: "Afro-Ken" , val: "drop"}
+- {name: "After War Gundam X" , val: "drop"}
+- {name: "Agatha Cristie no Meitantei Poirot to Marple" , val: "drop"}
+- {name: "Agent Aika" , val: "drop"}
+- {name: "Aggretsuko" , val: "drop"}
+- {name: "Aggretsuko (ONA) (Dub)" , val: "drop"}
+- {name: "Aggretsuko (ONA) (Sub)" , val: "drop"}
+- {name: "A-Girl" , val: "drop"}
+- {name: "Aguu: Genius Dolls" , val: "drop"}
+- {name: "Ah! My Goddess - Flights of Fancy (Dub)" , val: "drop"}
+- {name: "Ah! My Goddess - Flights of Fancy (Sub)" , val: "drop"}
+- {name: "Ah! My Goddess - Flights of Fancy Specials (Dub)" , val: "drop"}
+- {name: "Ah! My Goddess - Flights of Fancy Specials (Sub)" , val: "drop"}
+- {name: "Ah! My Goddess: The Movie (Dub)" , val: "drop"}
+- {name: "Ah! My Goddess: The Movie (Sub)" , val: "drop"}
+- {name: "Ahiru no Otegara" , val: "drop"}
+- {name: "Aho Girl" , val: "drop"}
+- {name: "Ai (ONA)" , val: "drop"}
+- {name: "Ai Mai Mii" , val: "comp"}
+- {name: "Ai Mai Mii Second Season" , val: "drop"}
+- {name: "Ai Mai Mii Third Season" , val: "drop"}
+- {name: "Ai Mai Mii: Mousou Catastrophe Special" , val: "drop"}
+- {name: "Ai Mai! Moe Can Change!" , val: "drop"}
+- {name: "Ai no Kusabi" , val: "drop"}
+- {name: "Ai no Kusabi (2012)" , val: "drop"}
+- {name: "Ai wa Kat-tun" , val: "drop"}
+- {name: "Ai wo Komete" , val: "drop"}
+- {name: "Ai Yori Aoshi (Dub)" , val: "comp"}
+- {name: "Ai Yori Aoshi (Sub)" , val: "drop"}
+- {name: "Ai Yori Aoshi: Enishi (Dub)" , val: "drop"}
+- {name: "Ai Yori Aoshi: Enishi (Sub)" , val: "drop"}
+- {name: "AIKa R-16: Virgin Mission" , val: "drop"}
+- {name: "AIKa: ZERO" , val: "drop"}
+- {name: "AIKa: ZERO Picture Drama" , val: "drop"}
+- {name: "Aikatsu Friends!" , val: "drop"}
+- {name: "Aikatsu Friends! Virtual Aituber Nana" , val: "drop"}
+- {name: "Aikatsu Stars!" , val: "drop"}
+- {name: "Aikatsu Stars! Movie" , val: "drop"}
+- {name: "Aikatsu!" , val: "drop"}
+- {name: "Aikatsu! 2" , val: "drop"}
+- {name: "Aikatsu! 3" , val: "drop"}
+- {name: "Aikatsu! 4" , val: "drop"}
+- {name: "Aikatsu! Movie" , val: "drop"}
+- {name: "Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow" , val: "drop"}
+- {name: "Aikatsu!: Nerawareta Mahou no Aikatsu Card" , val: "drop"}
+
+  # PAGE 4 # PAGE 4 # PAGE 4 # PAGE 4 # PAGE 4
+  # PAGE 4 # PAGE 4 # PAGE 4 # PAGE 4 # PAGE 4
+
+- {name: "Air (Dub)" , val: "drop"}
+- {name: "Air (Movie) (Dub)" , val: "drop"}
+- {name: "Air (Movie) (Sub)" , val: "drop"}
+- {name: "Air (Sub)" , val: "drop"}
+- {name: "Air Gear (Dub)" , val: "drop"}
+- {name: "Air Gear (Sub)" , val: "drop"}
+- {name: "Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky" , val: "drop"}
+- {name: "Air in Summer (Dub)" , val: "drop"}
+- {name: "Air in Summer (Sub)" , val: "drop"}
+- {name: "Air Master" , val: "drop"}
+- {name: "Aishite Knight" , val: "drop"}
+- {name: "Aishiteruze Baby" , val: "drop"}
+- {name: "Aiura" , val: "drop"}
+- {name: "A-jang.com" , val: "drop"}
+- {name: "Ajimu: Beach Story" , val: "comp"}
+- {name: "Ajin (Dub)" , val: "drop"}
+- {name: "Ajin (Sub)" , val: "drop"}
+- {name: "Ajin 2nd Season (Dub)" , val: "drop"}
+- {name: "Ajin 2nd Season (Sub)" , val: "drop"}
+- {name: "Ajin OVA" , val: "drop"}
+- {name: "Ajin Part 1: Shoudou" , val: "drop"}
+- {name: "Ajin Part 2: Shoutotsu" , val: "drop"}
+- {name: "Ajin Part 3: Shougeki" , val: "drop"}
+- {name: "Aka-chan to Boku" , val: "comp"}
+- {name: "Akagami no Shirayuki-hime (Dub)" , val: "drop"}
+- {name: "Akagami no Shirayuki-hime (Sub)" , val: "drop"}
+- {name: "Akagami no Shirayuki-hime 2nd Season (Dub)" , val: "drop"}
+- {name: "Akagami no Shirayuki-hime 2nd Season (Sub)" , val: "drop"}
+- {name: "Akagami no Shirayuki-hime OVA" , val: "drop"}
+- {name: "Akage no Anne" , val: "drop"}
+- {name: "Akagi" , val: "drop"}
+- {name: "Akahori Gedou Hour Rabuge" , val: "drop"}
+- {name: "Akai Hayate" , val: "drop"}
+- {name: "Akai Ito" , val: "drop"}
+- {name: "Akame ga Kill! (Dub)" , val: "drop"}
+- {name: "Akame ga Kill! (Sub)" , val: "drop"}
+- {name: "Akame ga Kill! Theater (Dub)" , val: "drop"}
+- {name: "Akame ga Kill! Theater (Sub)" , val: "drop"}
+- {name: "Akane Iro ni Somaru Saka" , val: "drop"}
+- {name: "Akane Maniax" , val: "drop"}
+- {name: "Akane-iro ni Somaru Saka Hardcore" , val: "drop"}
+- {name: "Akatsuki no Yona (Dub)" , val: "drop"}
+- {name: "Akatsuki no Yona (Sub)" , val: "drop"}
+- {name: "Akatsuki no Yona OVA" , val: "drop"}
+- {name: "Akazukin Chacha" , val: "drop"}
+- {name: "Akazukin Chacha OVA" , val: "drop"}
+- {name: "AKB0048 First Stage (Dub)" , val: "drop"}
+- {name: "AKB0048 First Stage (Sub)" , val: "drop"}
+- {name: "AKB0048 Next Stage (Dub)" , val: "drop"}
+- {name: "AKB0048 Next Stage (Dub)" , val: "drop"}
+
+  # PAGE 5 # PAGE 5 # PAGE 5 # PAGE 5 # PAGE 5
+  # PAGE 5 # PAGE 5 # PAGE 5 # PAGE 5 # PAGE 5
+
+- {name: "AKB0048 Stage Fighter" , val: "drop"}
+- {name: "Aki no Kanade" , val: "drop"}
+- {name: "Aki no Puzzle" , val: "drop"}
+- {name: "Akiba-chan" , val: "drop"}
+- {name: "Akiba's Trip The Animation (Dub)" , val: "drop"}
+- {name: "Akiba's Trip The Animation (Sub)" , val: "drop"}
+- {name: "Akikan!" , val: "drop"}
+- {name: "Akikan! OVA" , val: "drop"}
+- {name: "Akira (Dub)" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Akira (Sub)" , val: "drop"}
+- {name: "Aki-Sora" , val: "drop"}
+- {name: "Aki-Sora: Yume no Naka" , val: "drop"}
+- {name: "Aku no Hana" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Akuemon" , val: "drop"}
+- {name: "Akuma no Memumemu-chan" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Akuma no Riddle (Dub)" , val: "drop"}
+- {name: "Akuma no Riddle (Sub)" , val: "drop"}
+- {name: "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test" , val: "drop"}
+- {name: "Alakazam the Great (Dub)" , val: "drop"}
+- {name: "Alakazam the Great (Sub)" , val: "drop"}
+- {name: "Albator 84" , val: "drop"}
+- {name: "Alderamin on the Sky (Dub)" , val: "drop"}
+- {name: "Alderamin on the Sky (Sub)" , val: "drop"}
+- {name: "Aldnoah.Zero (Dub)" , val: "drop"}
+- {name: "Aldnoah.Zero (Sub)" , val: "drop"}
+- {name: "Aldnoah.Zero 2nd Season (Dub)" , val: "drop"}
+- {name: "Aldnoah.Zero 2nd Season (Sub)" , val: "drop"}
+- {name: "Alexander Senki (Dub)" , val: "drop"}
+- {name: "Alexander Senki (Sub)" , val: "drop"}
+- {name: "Ali-Baba and the Forty Thieves (Dub)" , val: "drop"}
+- {name: "Ali-Baba and the Forty Thieves (Sub)" , val: "drop"}
+- {name: "Alice in Wonderland (Dub)" , val: "drop"}
+- {name: "Alice or Alice" , val: "drop"}
+- {name: "Alice to Zouroku (Dub)" , val: "drop"}
+- {name: "Alice to Zouroku (Sub)" , val: "drop"}
+- {name: "Alien Nine" , val: "comp"}
+- {name: "All Out!! (Dub)" , val: "drop"}
+- {name: "All Out!! (Sub)" , val: "drop"}
+- {name: "Allison & Lillia" , val: "drop"}
+- {name: "Alps Stories: My Annette" , val: "drop"}
+- {name: "Amaama to Inazuma" , val: "drop"}
+- {name: "Amaenaide yo!! (Dub)" , val: "drop"}
+- {name: "Amaenaide yo!! (Sub)" , val: "drop"}
+- {name: "Amaenaide yo!! Katsu!! (Dub)" , val: "drop"}
+- {name: "Amaenaide yo!! Katsu!! (Sub)" , val: "drop"}
+- {name: "Amagami SS" , val: "drop"}
+- {name: "Amagami SS OVA" , val: "drop"}
+- {name: "Amagami SS+ Plus" , val: "drop"}
+- {name: "Amagami SS+ Plus Picture Drama" , val: "drop"}
+- {name: "Amagami SS+ Plus Specials" , val: "drop"}
+
+  # PAGE 6 # PAGE 6 # PAGE 6 # PAGE 6 # PAGE 6
+  # PAGE 6 # PAGE 6 # PAGE 6 # PAGE 6 # PAGE 6
+
+- {name: "Amagi Brilliant Park (Dub)" , val: "drop"}
+- {name: "Amagi Brilliant Park (Sub)" , val: "drop"}
+- {name: "Amagi Brilliant Park Special (Dub)" , val: "drop"}
+- {name: "Amagi Brilliant Park Special (Sub)" , val: "drop"}
+- {name: "Amanchu!" , val: "drop"}
+- {name: "Amanchu! 2" , val: "drop"}
+- {name: "Amanchu! Special" , val: "drop"}
+- {name: "Amatsuki" , val: "drop"}
+- {name: "amazarashi - Untitled (Mudai)" , val: "drop"}
+- {name: "Ame to Shoujo to Watashi no Tegami" , val: "drop"}
+- {name: "Amefuri Kozou (Dub)" , val: "drop"}
+- {name: "Amefuri Kozou (Sub)" , val: "drop"}
+- {name: "Ame-iro Cocoa" , val: "drop"}
+- {name: "Ame-iro Cocoa 2" , val: "drop"}
+- {name: "Ame-iro Cocoa 3" , val: "drop"}
+- {name: "Ame-iro Cocoa 4" , val: "drop"}
+- {name: "Amnesia (Dub)" , val: "drop"}
+- {name: "Amnesia (Sub)" , val: "drop"}
+- {name: "Amnesia OVA" , val: "drop"}
+- {name: "Amon: The Apocalypse of Devilman" , val: "drop"}
+- {name: "Amuri in Star Ocean" , val: "drop"}
+- {name: "An Expression" , val: "drop"}
+- {name: "Anata wo Zutto Aishiteru" , val: "drop"}
+- {name: "Ancien to Mahou no Tablet: Mou Hitotsu no Hirune Hime" , val: "drop"}
+- {name: "Android Kikaider (Dub)" , val: "drop"}
+- {name: "Android Kikaider (Sub)" , val: "drop"}
+- {name: "Andromeda Stories" , val: "drop"}
+- {name: "Ane Log Flash OVA" , val: "drop"}
+- {name: "Ane Log Flash OVA Specials" , val: "drop"}
+- {name: "Ane Log: Moyako Nee-san no Tomaranai Monologue" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Ange Vierge" , val: "drop"}
+- {name: "Angel Beats! (Dub)" , val: "drop"}
+- {name: "Angel Beats! (Sub)" , val: "drop"}
+- {name: "Angel Beats! Specials" , val: "drop"}
+- {name: "Angel Cop (Dub)" , val: "drop"}
+- {name: "Angel Cop (Sub)" , val: "drop"}
+- {name: "Angel Densetsu" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Angel Heart" , val: "drop"}
+- {name: "Angel Links (Dub)" , val: "drop"}
+- {name: "Angel Links (Sub)" , val: "drop"}
+- {name: "Angel Sanctuary (Dub)" , val: "comp"}
+- {name: "Angel Sanctuary (sub)" , val: "drop"}
+- {name: "Angel Tales (Dub)" , val: "drop"}
+- {name: "Angel Tales (Sub)" , val: "drop"}
+- {name: "Angel Tales 2" , val: "drop"}
+- {name: "Angelic Layer (Dub)" , val: "drop"}
+- {name: "Angelic Layer (Sub)" , val: "drop"}
+- {name: "Angelique" , val: "drop"}
+- {name: "Angelique: Shiroi Tsubasa no Memoire" , val: "drop"}
+- {name: "Angel's Egg" , val: "comp" , type: "special" , status: "complete"}
+
+  # PAGE 7 # PAGE 7 # PAGE 7 # PAGE 7 # PAGE 7
+  # PAGE 7 # PAGE 7 # PAGE 7 # PAGE 7 # PAGE 7
+
+- {name: "Angel's Feather" , val: "drop"}
+- {name: "Angels of Death (Dub)" , val: "drop"}
+- {name: "Angels of Death (Sub)" , val: "drop"}
+- {name: "Angolmois: Genkou Kassenki" , val: "drop"}
+- {name: "Ani*Kuri15" , val: "drop"}
+- {name: "Anima" , val: "drop"}
+- {name: "Animal Crossing" , val: "drop"}
+- {name: "Animated Classics of Japanese Literature" , val: "comp"}
+- {name: "Animation Seisaku Shinkou Kuromi-chan (Dub)" , val: "comp"}
+- {name: "Animation Seisaku Shinkou Kuromi-chan (Sub)" , val: "drop"}
+- {name: "Animegataris (Dub)" , val: "drop"}
+- {name: "Animegataris (Sub)" , val: "drop"}
+- {name: "Anison Nippon" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Anitore! EX" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Anitore! XX" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Anju to Zushioumaru" , val: "drop"}
+- {name: "Ankoku Shindenshou Takegami (Dub)" , val: "comp"}
+- {name: "Ankoku Shindenshou Takegami (Sub)" , val: "drop"}
+- {name: "Anne Happy" , val: "drop"}
+- {name: "Ano Natsu de Matteru" , val: "drop"}
+- {name: "Ano Natsu de Matteru Special" , val: "drop"}
+- {name: "AnoHana (Dub)" , val: "drop"}
+- {name: "AnoHana (Sub)" , val: "drop"}
+- {name: "AnoHana Movie" , val: "drop"}
+- {name: "Anonymous Noise (Dub)" , val: "drop"}
+- {name: "Anonymous Noise (Sub)" , val: "drop"}
+- {name: "Another (Dub)" , val: "drop"}
+- {name: "Another (Sub)" , val: "drop"}
+- {name: "Another: The Other - Inga" , val: "drop"}
+- {name: "Ansatsu Kyoushitsu" , val: "drop"}
+- {name: "Ansatsu Kyoushitsu (TV) (Dub)" , val: "drop"}
+- {name: "Ansatsu Kyoushitsu (TV) (Sub)" , val: "drop"}
+- {name: "Ansatsu Kyoushitsu (TV) 2nd Season (Dub)" , val: "drop"}
+- {name: "Ansatsu Kyoushitsu (TV) 2nd Season (Sub)" , val: "drop"}
+- {name: "Ansatsu Kyoushitsu (TV) 2nd Season: Kagaijugyou-hen" , val: "drop"}
+- {name: "Ansatsu Kyoushitsu (TV): Deai no Jikan" , val: "drop"}
+- {name: "Ansatsu Kyoushitsu: 365-nichi no Jikan" , val: "drop"}
+- {name: "Antique Bakery" , val: "drop"}
+- {name: "Anyamal Tantei Kiruminzoo" , val: "drop"}
+- {name: "Ao Haru Ride" , val: "drop"}
+- {name: "Ao Haru Ride OVA" , val: "drop"}
+- {name: "Ao no Exorcist (Dub)" , val: "drop"}
+- {name: "Ao no Exorcist (Sub)" , val: "drop"}
+- {name: "Ao no Exorcist 2 (Dub)" , val: "drop"}
+- {name: "Ao no Exorcist 2 (Sub)" , val: "drop"}
+- {name: "Ao no Exorcist Movie (Dub)" , val: "drop"}
+- {name: "Ao no Exorcist Movie (Sub)" , val: "drop"}
+- {name: "Ao no Exorcist OVA" , val: "drop"}
+- {name: "Ao no Exorcist: Ura Eku " , val: "drop"}
+
+  # PAGE 8 # PAGE 8 # PAGE 8 # PAGE 8 # PAGE 8
+  # PAGE 8 # PAGE 8 # PAGE 8 # PAGE 8 # PAGE 8
+
+- {name: "Ao no Kanata no Four Rhythm" , val: "drop"}
+- {name: "Ao Oni The Animation" , val: "drop"}
+- {name: "Ao Oni The Animation (Movie)" , val: "drop"}
+- {name: "Aoharu x Kikanjuu (Dub)" , val: "drop"}
+- {name: "Aoharu x Kikanjuu (Sub)" , val: "drop"}
+- {name: "Aoharu x Kikanjuu Special (Dub)" , val: "drop"}
+- {name: "Aoharu x Kikanjuu Special (Sub)" , val: "drop"}
+- {name: "Aoi Bungaku" , val: "comp" , type: "special" , status: "complete"}
+- {name: "Aoi Hana" , val: "comp" , type: "special"}
+- {name: "Aoi Sekai no Chuushin de (Dub)" , val: "drop"}
+- {name: "Aoi Sekai no Chuushin de (Sub)" , val: "drop"}
+- {name: "Aoki Densetsu Shoot!" , val: "drop"}
+- {name: "Aoki Densetsu Shoot! (1994)" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 9 # PAGE 9 # PAGE 9 # PAGE 9 # PAGE 9
+  # PAGE 9 # PAGE 9 # PAGE 9 # PAGE 9 # PAGE 9
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 10 # PAGE 10 # PAGE 10 # PAGE 10 # PAGE 10
+  # PAGE 10 # PAGE 10 # PAGE 10 # PAGE 10 # PAGE 10
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 11 # PAGE 11 # PAGE 11 # PAGE 11 # PAGE 11
+  # PAGE 11 # PAGE 11 # PAGE 11 # PAGE 11 # PAGE 11
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 12 # PAGE 12 # PAGE 12 # PAGE 12 # PAGE 12
+  # PAGE 12 # PAGE 12 # PAGE 12 # PAGE 12 # PAGE 12
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+  # PAGE 13 # PAGE 13 # PAGE 13 # PAGE 13 # PAGE 13
+  # PAGE 13 # PAGE 13 # PAGE 13 # PAGE 13 # PAGE 13
+
+- {name: "343" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "" , val: "drop"}
+- {name: "392" , val: "drop"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
